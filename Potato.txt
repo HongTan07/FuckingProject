@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Potato 2
 Potato 1
+=======
+Potato 1
+Potato 3
+>>>>>>> 30caa82ef833cc2a891e68c3eeb35e9ef0dfca7b
