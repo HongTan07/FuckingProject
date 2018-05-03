@@ -1,6 +1,1 @@
 Potato 1
-<<<<<<< HEAD
-Potato 3
-=======
-Potato 2
->>>>>>> a8170949723831b1cc2f295bcecccdc4b4807bff
